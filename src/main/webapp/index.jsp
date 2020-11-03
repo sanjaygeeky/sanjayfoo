@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Sysfoo Demo App by School of Devops</title>
+		<title>Sanjayfoo Demo App by Sanjay Mahajan</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -55,13 +55,13 @@
 							<article id="about">
 								<h2 class="major">About</h2>
 								<span class="image main"><img src="images/sodc_banner.jpg" alt="" /></span>
-								<p>School of Devops is a leading provider of devops trainings and offers variety of courses which focus on Infrastrucrture as a Code, Container and Docker, Continuous Delivery, Cloud. To learn more visit http://www.schoolofdevops.com.</p>
+								<p>smeconsult.in is a leading consulting provider of various IT  trainings and offers variety of courses which focus on Devops, Agile, Service Now, Cloud. To learn more visit http://www.smeconsult.in</p>
 							</article>
 					</div>
 
 				<!-- Footer -->
 					<footer id="footer">
-						<p class="copyright">&copycopyrights; Designed by Meenachi</a>.</p>
+						<p class="copyright">&copycopyrights; Designed by Sanjay Mahajan</a>.</p>
 					</footer>
 
 			</div>
